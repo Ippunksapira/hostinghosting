@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # izakat
 dalah website yang digunakan untuk menghitung serta membayar zakat dengan sistem yang lebih aman, praktis, dan terpercaya.
 <h3>Customer Service</h3>
@@ -21,3 +22,7 @@ dalah website yang digunakan untuk menghitung serta membayar zakat dengan sistem
       <hr class="garis_foot">
       <p><center>COPYRIGHT © 2017 Internet Zakat Indonesia || Noval Habibi</center></p>
     </footer>
+=======
+# hostinghosting
+hostingan
+>>>>>>> 00f51a92348f76e5ac357049187bfb74c22ffe7b
